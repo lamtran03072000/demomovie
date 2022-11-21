@@ -1,0 +1,7 @@
+.parents__select{
+    @apply  flex items-center p-3
+}
+
+.select{
+    @apply w-full bg-gray-200 p-3 font-medium text-base rounded text-gray-400
+}

@@ -1,0 +1,4 @@
+export const SET_LIST_CHAIR = "SET_LIST_CHAIR";
+export const ADD_CHAIR = "ADD_CHAIR";
+export const SET_INFO_MOVIE_BOOKING = "SET_INFO_MOVIE_BOOKING";
+export const REMOVE_CHAIR = "REMOVE_CHAIR";

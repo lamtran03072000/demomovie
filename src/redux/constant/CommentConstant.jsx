@@ -1,0 +1,2 @@
+export const STATUS_LIKE = "STATUS_LIKE";
+export const SUBMIT_COMMENT = "SUBMIT_COMMENT";
